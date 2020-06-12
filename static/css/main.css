@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /*MAIN CONTAINER THAT HOLDS THE APPS*/
 .grocery_main_container {
     border:solid blue;
